@@ -14,5 +14,3 @@ Catálogo de libros desarrollado en Java
 - Java
 - Spring Boot
 - API Gutendex
-- H2 Database
-- JPA
