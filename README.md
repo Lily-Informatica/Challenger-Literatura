@@ -1,4 +1,4 @@
-# Challenger-Literatura
+# Challenger-Literatura :books:
 Catálogo de libros desarrollado en Java
 
 ## Funcionalidades
